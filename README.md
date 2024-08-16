@@ -2,7 +2,7 @@
 This repository contains code for controlling the mitsubishi robot arm in the 1st floor 3D-printing lab
 
 ## Dependencies
-All dependencies are contained in the docker image
+It is advised to use docker with the [Dockerfile](Dockerfile)
 
 NOTE: If you are using WSL, GUI apps are not supported by default. To enable Linux GUI applications you can for example use: [XLaunch](https://sourceforge.net/projects/vcxsrv/)
 
